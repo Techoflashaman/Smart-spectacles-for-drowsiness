@@ -42,7 +42,7 @@ In this block diagram firstly the whole system is powered by PSU (Power supply u
 This advantage leads to detecting drowsiness in early stages and activate the alarm before a car accident occur.
 
 
-![Logo](E:\PROJECT\Smart spectacles for drowsiness\schematic.PNG)
+![schematic!](E:\PROJECT\Smart spectacles for drowsiness\schematic.PNG)
 
 ## Code for this project
 
