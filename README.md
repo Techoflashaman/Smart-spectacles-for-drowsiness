@@ -36,7 +36,7 @@ Software requirement
 
 ## Block diagram & Circuit diagram
 
-![Logo!]()
+![Block diagram!](Block diagram.PNG)
 
 In this block diagram firstly the whole system is powered by PSU (Power supply unit) after which it is start work. Here InfraRed based eye sensor is used to detect the eye blink of the driver. When the driver is not respond or do not open the eye after a certain interval of time, the sensor start acts and send the signal towards the microcontroller (Arduino Pro mini 328p) then the microcontroller analysed the data and send the further signal to the  “Buzzer, LED, Vibration motor” through which the driver or a person get alert.
 This advantage leads to detecting drowsiness in early stages and activate the alarm before a car accident occur.
