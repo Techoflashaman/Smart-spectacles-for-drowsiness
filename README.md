@@ -8,7 +8,7 @@ Drowsiness is one of the major factors for road accidents. For preventing these 
 This project firmware is based on Arduino.
 ## Components required for making this project
 
-###Hardware requirement
+### Hardware requirement
 
 1-ATMEL 328P microcontroller (Arduino pro mini)
 
@@ -30,7 +30,7 @@ This project firmware is based on Arduino.
 
 ###
 
-###Software requirement
+### Software requirement
 
 1-Arduino IDE
 
