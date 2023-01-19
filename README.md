@@ -34,13 +34,13 @@ Software requirement
 
 ## Block diagram & Circuit diagram
 
-![Block!](Block.PNG)<img src=""></img>
+<img src="https://firebasestorage.googleapis.com/v0/b/smart-spectacles-drowsiness.appspot.com/o/Block.PNG?alt=media&token=93b0994a-0f7b-4bd2-9855-0c00a380e77b"></img>
 
 In this block diagram firstly the whole system is powered by PSU (Power supply unit) after which it is start work. Here InfraRed based eye sensor is used to detect the eye blink of the driver. When the driver is not respond or do not open the eye after a certain interval of time, the sensor start acts and send the signal towards the microcontroller (Arduino Pro mini 328p) then the microcontroller analysed the data and send the further signal to the  “Buzzer, LED, Vibration motor” through which the driver or a person get alert.
 This advantage leads to detecting drowsiness in early stages and activate the alarm before a car accident occur.
 
 
-![schematic!](schematic.PNG)<img src=""></img>
+<img src="https://firebasestorage.googleapis.com/v0/b/smart-spectacles-drowsiness.appspot.com/o/schematic.PNG?alt=media&token=19502169-7205-4430-9431-2e68e93237ee"></img>
 
 ## Code for this project
 
