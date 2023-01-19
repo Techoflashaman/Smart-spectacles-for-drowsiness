@@ -1,0 +1,15 @@
+Hardware requirement
+
+• ATMEL 328P microcontroller (Arduino pro mini)
+• Infrared sensor
+• Buzzer
+• LED
+• Vibration motor
+• Fiber glass spectacles
+• Power source (battery 5volt)
+• Perf board
+• Wires and others materials.
+
+Software requirement
+
+• Arduino IDE
