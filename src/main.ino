@@ -3,7 +3,7 @@ embed
 https://embed.org.in
 */
 
-#define SENSE A0
+#define SENSE A0 //IR sensor attach to PIN A0(Analog 0) of microcontroller
 void setup()
 {
 pinMode(SENSE, INPUT);
